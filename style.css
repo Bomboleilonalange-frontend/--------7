@@ -64,7 +64,6 @@
   font-family: 'Playfair Display', serif;
   font-size: 45px;
   font-weight: 400;
-  line-height: 60px;
 }
 .strelka {
   width: 50px;
@@ -75,7 +74,6 @@
   font-family: 'Playfair Display';
   font-size: 30px;
   font-weight: 400;
-  line-height: 39.99px;
 }
 .text1 {
   font-family: 'Roboto', sans-serif;
@@ -90,16 +88,14 @@
   font-family: 'Roboto';
   width: 205px;
   height: 64px;
-  font-weight: 500;
   font-size: 15px;
-  line-height: 14px;
   letter-spacing: 0.05em;
   background-color: #444240;
   color: #ffffff;
   border: none;
 }
 .price-main1 {
-  font-family: "Prata";
+  font-family: 'Prata';
   line-height: 21.68px;
   margin-top: 138px;
 }
@@ -135,16 +131,12 @@
   font-family:'Playfair Display', serif;
   font-weight: 400;
   font-size: 32px;
-  line-height: 43px;
-  color: #1b1a17;
 }
 .link {
   display: flex;
   justify-content: flex-end;
+  font-family: 'Roboto';
   margin-right: 98px;
-  font-family: "Roboto";
-  font-weight: 500;
-  font-size: 16px;
 }
 .watches {
   display: flex;
@@ -162,17 +154,15 @@
   display: flex;
   flex-direction: column;
   row-gap: 10px;
-  padding-top: 40px;
-  padding-left: 40px;
+  margin-top: 40px;
+  margin-left: 40px;
 }
 .element h5 {
-  font-family: "Playfair Display";
-  font-weight: 700;
+  font-family: 'Playfair Display';
   font-size: 14px;
-  line-height: 24.26px;
 }
 .element p {
-  font-family: "Prata";
+  font-family: 'Prata';
   font-weight: 400;
   font-size: 12px;
   line-height: 16.26px;
@@ -189,10 +179,9 @@
 .mini-con {
   display: flex;
   align-items: baseline;
-  gap: 18px;
-  font-family: "Playfair Display";
+  column-gap: 18px;
+  font-family: 'Playfair Display';
   font-size: 16px;
-  font-weight: 400;
 }
 .strelka4 {
   width: 30px;
@@ -215,24 +204,19 @@
   row-gap: 40px;
 }
 .quality {
-  font-family: "Playfair Display";
+  font-family: 'Playfair Display';
   font-size: 32px;
   font-weight: 400;
 }
 .text2 {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
-  font-weight: 400;
 }
 .button2 {
-  font-family: "Roboto";
-  font-style: normal;
+  font-family: 'Roboto';
   width: 205px;
   height: 64px;
-  font-weight: 500;
   font-size: 15px;
-  line-height: 14px;
   letter-spacing: 0.05em;
   background-color: #d4b098;
   color: #ffffff;
@@ -261,7 +245,7 @@
   row-gap: 60px;
 }
 .News h2 {
-  font-family: "Playfair Display";
+  font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
