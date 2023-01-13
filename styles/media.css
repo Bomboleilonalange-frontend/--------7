@@ -1,0 +1,12 @@
+@media (max-width: 880px) {
+  .icons {
+    display: none;
+  }
+  .navigation1{
+    justify-content: space-around;
+  }
+  .navigation2{
+    flex-direction: column;
+    background-image: none;
+  }
+}
